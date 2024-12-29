@@ -1,0 +1,9 @@
+../Src/main.h:30:6:HSI_Init	4	static
+../Src/main.h:35:6:Timer2_Init	16	static
+../Src/main.h:46:6:Timer2_Start	4	static
+../Src/main.h:49:6:Timer2_Stop	4	static
+../Src/main.h:54:6:Delay_ms	16	static
+../Src/main.h:60:6:TIM2_IRQHandler	4	static
+../Src/main.h:72:6:GPIOA_Pin5_Init	4	static
+../Src/main.h:80:6:GPIOA_Pin5_Toggle	4	static
+../Src/main.c:25:5:main	8	static
